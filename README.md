@@ -1,90 +1,259 @@
-# Hi there, I'm Tarin Prosad Ghosh 👋
+# <div align="center">👋 Hi there, I'm **Tarin Prosad Ghosh**</div>
 
+<div align="center">
+  
 ### 🚀 MERN Stack Developer | 💻 Problem Solver | 🎓 CSE Undergraduate at JUST
 
-I’m passionate about building scalable web applications, solving algorithmic problems, and exploring cloud-native technologies like Docker & Kubernetes.  
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;Competitive+Programmer;Problem+Solver;Always+Learning+New+Tech" alt="Typing SVG" />
+
+</div>
 
 ---
 
-## 🧑‍💻 About Me  
-- 🎓 Studying **CSE @ Jashore University of Science and Technology**  
-- 🔭 Currently working on **LifeTech** & **AutoDocs**  
-- 🌱 Learning **DevOps tools (Docker, Kubernetes, CI/CD, AWS)**  
-- 💡 Interested in **Full-stack development & Competitive Programming**  
-- ⚡ Fun fact: I love combining development with problem-solving competitions!  
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**About Me**
 
-📫 Reach me: **[Email](mailto:tarinprosadghosh@gmail.com)** | **[LinkedIn](https://www.linkedin.com/in/durjoy-ghosh-just/)**  
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" height="300">
 
----
+- 🎓 Studying **CSE @ Jashore University of Science and Technology**
+- 🔭 Currently working on **LifeTech** & **AutoDocs**
+- 🌱 Learning **DevOps tools (Docker, Kubernetes, CI/CD, AWS)**
+- 💡 Interested in **Full-stack development & Competitive Programming**
+- ⚡ Fun fact: I love combining development with problem-solving competitions!
+- 📫 Reach me: **[Email](mailto:tarinprosadghosh@gmail.com)** | **[LinkedIn](https://www.linkedin.com/in/durjoy-ghosh-just/)**
 
-## 🛠️ Skills
-
-**Languages:**  
-![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) 
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-
-**Frontend:**  
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3) 
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
-![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)  
-
-**Backend:**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
-
-**Databases:**  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) 
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)  
-
-**Tools & Tech:**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github) 
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) 
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  
+<br clear="both">
 
 ---
 
-## 📌 Featured Projects
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">&nbsp;**Skills**
 
-🔹 [**LifeTech**](https://github.com/DurjoyGH/ICLSB) – Conference portal with paper submission, peer review, and management system  
-🔹 [**PetNest**](https://github.com/DurjoyGH/PetNest) – Pet marketplace with veterinarian directory, blogs, Q&A, and AI assistance  
-🔹 [**AutoDocs**](https://github.com/mdsaniulbasirsaz/AutoDocs-Cse) – University document automation system  
-🔹 [**ShareReads**](https://github.com/DurjoyGH/Share-Reads-WebAPP) – Book sharing & borrowing platform with request/notification system  
+<div align="center">
+
+### 💻 **Languages**
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=c" width="65" height="65" alt="C" />
+      <br>C
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=cpp" width="65" height="65" alt="C++" />
+      <br>C++
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=java" width="65" height="65" alt="Java" />
+      <br>Java
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=js" width="65" height="65" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+  </tr>
+</table>
+
+### 🎨 **Frontend Technologies**
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML" />
+      <br>HTML5
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS" />
+      <br>CSS3
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react" width="65" height="65" alt="React" />
+      <br>React
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="Tailwind" />
+      <br>Tailwind CSS
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="65" alt="Bootstrap" />
+      <br>Bootstrap
+    </td>
+  </tr>
+</table>
+
+### ⚙️ **Backend Technologies**
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Node.js" />
+      <br>Node.js
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=express" width="65" height="65" alt="Express.js" />
+      <br>Express.js
+    </td>
+  </tr>
+</table>
+
+### 🗄️ **Databases**
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=firebase" width="65" height="65" alt="Firebase" />
+      <br>Firebase
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql" width="65" height="65" alt="SQL" />
+      <br>SQL
+    </td>
+  </tr>
+</table>
+
+### 🛠️ **Tools & Technologies**
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=github" width="65" height="65" alt="GitHub" />
+      <br>GitHub
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=docker" width="65" height="65" alt="Docker" />
+      <br>Docker
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=kubernetes" width="65" height="65" alt="Kubernetes" />
+      <br>Kubernetes
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=aws" width="65" height="65" alt="AWS" />
+      <br>AWS
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;**Featured Projects**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DurjoyGH&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+<div align="center">
+  
+<table>
+<tr>
+<td width="50%">
+
+### 🏥 [LifeTech](https://github.com/DurjoyGH/ICLSB)
+Conference portal with paper submission, peer review, and management system
+  
+**Tech Stack:** `React` `Node.js` `MongoDB` `Express`
+
+</td>
+<td width="50%">
+
+### 🐾 [PetNest](https://github.com/DurjoyGH/PetNest)
+Pet marketplace with veterinarian directory, blogs, Q&A, and AI assistance
+  
+**Tech Stack:** `React` `Firebase` `Node.js` `AI Integration`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📄 [AutoDocs](https://github.com/mdsaniulbasirsaz/AutoDocs-Cse)
+University document automation system
+  
+**Tech Stack:** `React` `Node.js` `MongoDB` `Express`
+
+</td>
+<td width="50%">
+
+### 📚 [ShareReads](https://github.com/DurjoyGH/Share-Reads-WebAPP)
+Book sharing & borrowing platform with request/notification system
+  
+**Tech Stack:** `React` `Node.js` `MongoDB` `Real-time Notifications`
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35">&nbsp;**Git Stats**
+
+<div align="center">
+  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=DurjoyGH&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=DurjoyGH&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DurjoyGH&theme=tokyonight" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DurjoyGH&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=DurjoyGH&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
 ---
 
-## 🏆 Competitive Programming Profiles  
+## <img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" width="35">&nbsp;**Competitive Programming**
 
-- **Codeforces:** [DurjoyGH](https://codeforces.com/profile/DurjoyGH) (Solved: 755 | Max Rating: 1214 – Pupil)  
-- **CodeChef:** [durjoy_gh](https://www.codechef.com/users/durjoy_gh) (Solved: 147 | Max Rating: 1419 – 2⭐)  
+<div align="center">
+
+<table align="center">
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🏆 Platform</b></td>
+      <td><b>📊 Problems Solved</b></td>
+      <td><b>⭐ Max Rating</b></td>
+      <td><b>🎯 Rank</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://codeforces.com/profile/DurjoyGH"><b>Codeforces</b></a></td>
+      <td><b>755</b></td>
+      <td><b>1214</b></td>
+      <td><b>Pupil</b></td>
+    </tr>
+    <tr>
+      <td><a href="https://www.codechef.com/users/durjoy_gh"><b>CodeChef</b></a></td>
+      <td><b>147</b></td>
+      <td><b>1419</b></td>
+      <td><b>2⭐</b></td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
 
 ---
 
-## 🌐 Connect With Me  
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35">&nbsp;**Connect With Me**
 
-<p align="center">
-  <a href="mailto:tarinprosadghosh@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/durjoy-ghosh-just/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/DurjoyGH"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"/></a>
-</p>
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:tarinprosadghosh@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/durjoy-ghosh-just/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/DurjoyGH)
+
+</div>
 
 ---
-✨ _Always open to collaboration on interesting projects!_
+
+<div align="center">
+  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> **Thanks for visiting!** <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+
+**✨ Always open to collaboration on interesting projects!**
+
+![Profile Views](https://komarev.com/ghpvc/?username=DurjoyGH&color=brightgreen&style=for-the-badge)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</div>
