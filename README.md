@@ -150,7 +150,7 @@
 ### 🏥 [LifeTech](https://github.com/DurjoyGH/ICLSB)
 Conference portal with paper submission, peer review, and management system
   
-**Tech Stack:** `React` `Node.js` `MongoDB` `Express`
+**Tech Stack:** `React.js` `Node.js` `MongoDB` `Express.js` `Firebase` `Docker` `CI/CD` `TailwindCSS`
 
 </td>
 <td width="50%">
@@ -158,7 +158,7 @@ Conference portal with paper submission, peer review, and management system
 ### 🐾 [PetNest](https://github.com/DurjoyGH/PetNest)
 Pet marketplace with veterinarian directory, blogs, Q&A, and AI assistance
   
-**Tech Stack:** `React` `Firebase` `Node.js` `AI Integration`
+**Tech Stack:** `React.js` `Firebase` `Node.js` `Express.js` `AI Integration` `TailwindCSS`
 
 </td>
 </tr>
@@ -168,7 +168,7 @@ Pet marketplace with veterinarian directory, blogs, Q&A, and AI assistance
 ### 📄 [AutoDocs](https://github.com/mdsaniulbasirsaz/AutoDocs-Cse)
 University document automation system
   
-**Tech Stack:** `React` `Node.js` `MongoDB` `Express`
+**Tech Stack:** `React.js` `Django` `MySQL` `TailwindCSS`
 
 </td>
 <td width="50%">
@@ -176,7 +176,7 @@ University document automation system
 ### 📚 [ShareReads](https://github.com/DurjoyGH/Share-Reads-WebAPP)
 Book sharing & borrowing platform with request/notification system
   
-**Tech Stack:** `React` `Node.js` `MongoDB` `Real-time Notifications`
+**Tech Stack:** `Express.js` `Node.js` `MongoDB` `Real-time Notifications` `EJS` `Bootstrap` `Passport.js`
 
 </td>
 </tr>
