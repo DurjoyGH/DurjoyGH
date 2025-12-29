@@ -2,7 +2,7 @@
 
 <div align="center">
   
-### 🚀 MERN Stack Developer | 💻 Problem Solver | 🎓 CSE Undergraduate at JUST
+### 🚀 MERN Stack Developer | 💻 Problem Solver | ⚡ AI/ML Explorer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;Competitive+Programmer;Problem+Solver;Always+Learning+New+Tech" alt="Typing SVG" />
 
@@ -14,8 +14,8 @@
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" height="300">
 
-- 🎓 Studying **CSE @ Jashore University of Science and Technology**
-- 🔭 Currently working on **LifeTech** & **AutoDocs**
+- 🎓 Studied **CSE @ Jashore University of Science and Technology**
+- 🔭 Currently working on **LifeTech** & **AutoCP**
 - 🌱 Learning **DevOps tools (Docker, Kubernetes, CI/CD, AWS)**
 - 💡 Interested in **Full-stack development & Competitive Programming**
 - ⚡ Fun fact: I love combining development with problem-solving competitions!
